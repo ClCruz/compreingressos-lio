@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="order-manager-0.9.10">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.cielo.lio/order-manager/0.9.10/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.cielo.lio/order-manager/0.9.10/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.cielo.lio/order-manager/0.9.10/1509038fe80b6ee7fdeef60a9a71da724642391c/order-manager-0.9.10-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

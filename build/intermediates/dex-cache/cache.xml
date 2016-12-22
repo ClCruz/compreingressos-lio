@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/classes-0ff038b224cfd63c7e59881c2a1239414b0a8d81.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/libs/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/Parse-1.9.2-a6134f576161eed7a0a4bb6ea7074920f19d5fb9.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-edf82de43a8fc363844a01b3d705fd1268284e3d.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-be802108f5e884e4955e53260be820b91ae12729.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-49e7bab1c1a0d786c621eea3ead8d8b86a033ddc.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.0/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0-5c5327dfbe615b589031bfb921d3371645524b4b.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/libs/ormlite-core-4.48.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e579bd2905d0399af5029aaaf9817d5fa0ca88a5">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/ormlite-core-4.48-63f78d77204a3d338f5f062c52bd2b4a08928e07.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-2fbf331d3ddd57e94fed0f1b65bc1c3514e2240d.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-bd38d2ffc4d9379a9c4e1ec5c662d207254149e4.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0-1c71e93369b93a00b9dd207e75acee69dbbb3fb9.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-613efae5d668ed382b602de6668969b45dee6020.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.cielo.lio/order-manager/0.9.10/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="2dabff44b85ad303d68fd8793cdedae712a73215">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-75021720f79fd04a90dbff4c456514dbeee05ce1.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/classes-3988da4b64426ef844df42c79bbcae472930c8ce.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0-1e005acdaa58900a9e37a8f9c57ffa5856b33c39.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/classes-a65c19cfe2c44fd1f850bc188ba4c0d186d5071e.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0-0f0946e1209b6fe9a7f78a8706125edd34aa214d.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0-a1f1d441c3643d1ba57b6063df04ef7f0719e586.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-e48660b452d5cf5a2df1501cc32a87dfab9c591f.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-ac73d31d633cd10bd0ec34277cdd3a7e3c598543.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/libs/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/bolts-android-1.2.0-8b31146c82f5a79e57004cd4446e2cf5d7b4ae9d.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/libs/core-3.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/core-3.2.0-ccc59c51404ffbc76584fbd584fbd99e18013eed.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/libs/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-42213880d3c83dcd2dc4bbf0a96b6a747e9bf60f.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-f0a1a945939c4216caa164c3fed18ff99df76b10.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-8f9045d606289fe53c2f49b67fdbfd5e4bb90ead.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/classes-24ee9f447f44ed6626f078ac4eed314e60bd00c3.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.0/libs/internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/internal_impl-24.2.0-2090a35abc8ea7fe46aec10d9ab634473f31e930.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-alpha1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ea579447f9afb1fbcb28e150e1cd4bfe7f56e75b">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/classes-ad0617db9bffb0e0bf26bc1bdcc4239997bad821.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-578496a5efa1e301f78c8bba4b569321e49b8f16.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.0/support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/support-annotations-24.2.0-84ed12eff29d9093a66d4b1ca536bc79d970524a.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/classes-1b163422dd0ae27bb58f22d250b8eb3ae60e3fe8.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-runtime/1.0.5/67d6f90bf8ed20fcdc78a23fcdc6804749d24498/kotlin-runtime-1.0.5.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="67d6f90bf8ed20fcdc78a23fcdc6804749d24498">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/kotlin-runtime-1.0.5-9f168d015e80d40953e87b2df849d9373af719b7.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-726c4353c5b7033153e1deff8ab16dab05ddad96.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-dca14aca337a5978d69dddecef5f9aeed4c92a58.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/libs/core-3.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="e019d15a13a9786f881141d2df6654b8510bce8b">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/core-3.2.0-98c06fccdf0f7d77398c922e807a11fa58f7f1b0.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0-aa76b33b4c4a21059f3cbaf56dc17a0cbf76d4d7.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/libs/Parse-1.9.2.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe739334780fe321141e62720822c2d456061899">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/Parse-1.9.2-d897b6a83d3fce1fed5f5c8ca195edd64914b688.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.0.5/5784635914dadf0635e7bf3f28f1711317e1433a/kotlin-stdlib-1.0.5.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="5784635914dadf0635e7bf3f28f1711317e1433a">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/kotlin-stdlib-1.0.5-87db562307c14a86888f17358eb3c1a7a36538ae.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/classes-0cdea816fd23e1e31c513bae2ccee8273d5b4ba2.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/gson-2.3.1-e7f5b6cec6461d9ee41c4e2814e8f7da2f59a42a.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/classes-a08fc933d12c764647df565cfada1ce4393742cd.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-b26c62a9ab049c4dbc71c9e253c5c60d6a9428d4.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.0/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-f9ac6a1be3005d0085d333d65ff81f48819619ed.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/classes-a86bd2cc6a2c2f1cefa29c93efd39d8cb3042cd2.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/libs/ormlite-android-4.48.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="afa06f539a4026c10b247386312aa67404b80a16">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/Compreingressos/app/build/intermediates/pre-dexed/release/ormlite-android-4.48-96acb82ae3930a5ae2b1c530a66d4cffc5d29752.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/classes-179849dd5b155be903316aae583757a22b9bb23a.jar" />
+    </item>
+    <item
+        jar="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.2.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="/Users/edicarlosbarbosa/Projetos/Ativos/CheckCompre/Android/CheckCompre/app/build/intermediates/pre-dexed/debug/classes-cf43f16922b95a136e3170eadf38e80957d5534c.jar" />
+    </item>
+
+</items>
